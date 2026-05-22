@@ -1,8 +1,16 @@
 <h3 align="left">Haloo!</h3>
 
+## About Me
+
+I am Muhammad Fitra Ramadhan, a technology learner with a strong interest in web development, backend systems, database design, software engineering, and design graphic.
+
+---
+
 <p align="center">
   <strong>Web Development Enthusiast | Backend Learner | Database & Software Engineering Student</strong>
 </p>
+
+---
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL">
@@ -16,12 +24,6 @@
   </a>
 </p>
 
----
-
-## About Me
-
-I am Muhammad Fitra Ramadhan, a technology learner with a strong interest in web development, backend systems, database design, software engineering, and design graphic.
-
 
 ---
 ## Technical Skills
@@ -30,18 +32,6 @@ I am Muhammad Fitra Ramadhan, a technology learner with a strong interest in web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,php,python" />
-</p>
-
---
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FitraRamadhan07&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitraRamadhan07&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
