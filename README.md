@@ -12,20 +12,6 @@ I am Muhammad Fitra Ramadhan, a technology learner with a strong interest in web
 
 ---
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
-  </a>
-</p>
-
-
----
 ## Technical Skills
 
 ### Programming & Markup Languages
@@ -47,13 +33,11 @@ I am continuously improving my technical foundation through hands-on projects, s
 ## Contact
 
 You can reach me through:
+- [![Email](https://shields.io)](mailto:fitraramadhan20okt@gmail.com)
+- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/muhammad-fitra-ramadhan-9081963a5/)
+- [![Discord](https://shields.io)](https://discord.gg/ncSHdZY8)
 
-- Email: **<a href= "mailto:fitraramadhan20okt@gmail.com"><button>Gmail</button></a>**
-- LinkedIn: **<a href= "https://www.linkedin.com/in/muhammad-fitra-ramadhan-9081963a5/"><button>LinkedIn</button></a>**
-- Discord: **<a href= "https://discord.gg/ncSHdZY8"><button>Discord</button></a>**
 
----
-
-<p align="center">
-  <em>See you.</em>
-</p>
+<h4 align="center">
+  See you.
+</h4>
