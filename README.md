@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Fitra Ramadhan</h1>
+<h3 align="left">Haloo!</h3>
 
 <p align="center">
   <strong>Web Development Enthusiast | Backend Learner | Database & Software Engineering Student</strong>
@@ -20,61 +20,28 @@
 
 ## About Me
 
-I am **Muhammad Fitra Ramadhan**, a technology learner with a strong interest in **web development, backend systems, database design, and software engineering**.
+I am Muhammad Fitra Ramadhan, a technology learner with a strong interest in web development, backend systems, database design, software engineering, and design graphic.
 
-I focus on building applications that are structured, maintainable, secure, and useful for real-world needs. My current learning path is centered around developing dynamic web applications, understanding backend architecture, designing efficient databases, and improving my problem-solving skills through consistent practice.
-
-I believe that good software is not only about writing code that works, but also about creating systems that are clear, scalable, and easy to maintain.
 
 ---
-
-## Current Focus
-
-- Building dynamic web applications using modern backend technologies
-- Learning Laravel, PHP, and MVC-based application architecture
-- Designing relational databases with proper structure and normalization
-- Improving SQL query writing and database management skills
-- Strengthening Git and GitHub workflow for version control
-- Understanding basic web security and clean code principles
-
----
-
 ## Technical Skills
 
 ### Programming & Markup Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,python" />
 </p>
 
-### Frameworks, Tools & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,mysql,git,github,vscode" />
-</p>
-
----
-
-## Areas of Interest
-
-- Backend Web Development
-- Database Systems
-- Web Application Security
-- Software Engineering
-- Admin Dashboard Development
-- System Design for Web Applications
-- Clean Code and Maintainable Architecture
-
----
+--
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FitraRamadhan07&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitraRamadhan07&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -91,12 +58,12 @@ I am continuously improving my technical foundation through hands-on projects, s
 
 You can reach me through:
 
-- Email: **YOUR_EMAIL**
-- LinkedIn: **YOUR_LINKEDIN**
-- GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+- Email: **<a href= "mailto:fitraramadhan20okt@gmail.com"><button>Gmail</button></a>**
+- LinkedIn: **<a href= "https://www.linkedin.com/in/muhammad-fitra-ramadhan-9081963a5/"><button>LinkedIn</button></a>**
+- Discord: **<a href= "https://discord.gg/ncSHdZY8"><button>Discord</button></a>**
 
 ---
 
 <p align="center">
-  <em>Building software with logic, structure, and continuous improvement.</em>
+  <em>See you.</em>
 </p>
